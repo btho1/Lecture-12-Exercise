@@ -20,3 +20,10 @@ For our info 200 project we decided to work on designing an app that shows avail
 Jared plans on doing INFO 340, LING 200, and PHIL 120 next quarter. He plans on taking it because it fills up his VLPA credits and also he's kind of interested in those classes.
 
 # jared's old a1 assignment
+President Donald Trump revealed early Friday morning last week that **he and the first lady, Melania Trump, had tested positive for the coronavirus.** Late Friday afternoon, he was taken to the hospital after his conditions worsened. Even if Trump does not become seriously ill from coronavirus, *this raises serious concerns about his ability of running the U.S. government.*
+
+
+
+> Mr. Trump, who for months has played down the seriousness of the virus and hours earlier on Thursday night told an audience that “the end of the pandemic is in sight,” will quarantine in the White House for an unspecified period of time, forcing him to withdraw at least temporarily from the campaign trail only 32 days before the election on Nov. 3.
+
+This [article](https://www.latimes.com/politics/story/2020-10-05/photos-trump-leaves-hospital-although-doctors-say-he-may-not-entirely-be-out-of-the-woods) captured President Trump walking out of Walter Reed National Military Medical Center after being discharged on Monday before boarding Marine One to return to the White House.
