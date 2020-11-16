@@ -8,5 +8,5 @@ For breakfast Jared ate rice and pork with milk.
 
 # Our info 200 project summary
 For our info 200 project we decided to work on designing an app that shows available covid-19 testing centers.
-
-Jared plans on doing INFO 340, LING 200, and PHIL 120 next quarter. He plans on taking it because it fills up his VLPA credits and also he's kind of interested in those classes. 
+# Jared's plans next quarter
+Jared plans on doing INFO 340, LING 200, and PHIL 120 next quarter. He plans on taking it because it fills up his VLPA credits and also he's kind of interested in those classes.
