@@ -7,5 +7,7 @@ Near the end of the week, Brian and Jared realize that they have to combine thei
 For breakfast Jared ate rice and pork with milk.
 
 # Our info 200 project summary
-For our info 200 project we decided to work on designing an app that shows available covid-19 testing centers. 
+For our info 200 project we decided to work on designing an app that shows available covid-19 testing centers.
 >>>>>>> 7caf25697846f5cd0e5a9ed8f579c711b28c3fb6
+# Our plans for next quarter
+Jared plans on doing INFO 340, LING 200, and PHIL 120 next quarter. He plans on taking it because there 
