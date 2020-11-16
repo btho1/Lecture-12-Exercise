@@ -18,3 +18,5 @@ For our info 200 project we decided to work on designing an app that shows avail
 
 # Jared's plans next quarter
 Jared plans on doing INFO 340, LING 200, and PHIL 120 next quarter. He plans on taking it because it fills up his VLPA credits and also he's kind of interested in those classes.
+
+# jared's old a1 assignment
