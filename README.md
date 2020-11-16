@@ -8,3 +8,9 @@ For breakfast Jared ate rice and pork with milk.
 
 # Our info 200 project summary
 For our info 200 project we decided to work on designing an app that shows available covid-19 testing centers.
+
+
+> One would think with the streak Russell Wilson has been on that he would continue his dominance week in and week out. However, these past few weeks have been rough on him as his turnover ratio is continually increasing and his team has lost in back to back weeks. These events have created many Seahawks fan, such as myself, to become stressed and have anxiety for future weeks to come.
+
+ This [article](https://www.pennlive.com/sports/2020/11/seattle-seahawks-vs-los-angeles-rams-free-live-stream-111520-how-to-watch-nfl-games-time-channel.html) captures Russell Wilson looking for a opening to pass, as defenders come rushing in. Throughout the game, the defense continues to send pressure, leading to him having a two interception game:
+ ![Let Russ Cook](./imgs/Lecture-12-Exercise.jpg)
